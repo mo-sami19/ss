@@ -1,0 +1,3 @@
+[submodule "path/to/nested/project"]
+	path = path/to/nested/project
+	url = https://github.com/mo-sami19/ss.git
